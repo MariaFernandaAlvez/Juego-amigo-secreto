@@ -36,7 +36,7 @@ JavaScript
 
 5. La aplicación mostrará el resultado del sorteo.
    
-![Paso 5](https://github.com/user-attachments/assets/01c84f71-ed7a-4061-b9e1-e930183943af)
+   ![Paso 5](https://github.com/user-attachments/assets/01c84f71-ed7a-4061-b9e1-e930183943af)
 
 6. Para comenzar un nuevo juego, recargue la página.
 
