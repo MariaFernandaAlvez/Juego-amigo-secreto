@@ -1,4 +1,5 @@
 <h1 align="center"> Juego del Amigo Secreto </h1>
+
 ![Imagen de Portada](https://github.com/user-attachments/assets/5759fde6-6256-4e9c-be23-3eaa147b9793)
 
 Descripción del proyecto:
