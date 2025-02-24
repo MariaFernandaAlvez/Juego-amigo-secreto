@@ -19,7 +19,7 @@ Funcionalidades:
 
 1. Accede al siguiente link: https://mariafernandaalvez.github.io/Juego-amigo-secreto/ 
 
-2. Ingresa los nombres de los participantes en el recuadro en blanco que indica "Escribe su nombre".
+2. Ingresa los nombres de los participantes en el recuadro en blanco que indica "Escribe un nombre".
 
 3. Presiona el botón "Añadir".
 
