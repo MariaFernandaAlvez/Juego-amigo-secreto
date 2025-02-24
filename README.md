@@ -2,7 +2,7 @@
 
 ![Imagen de Portada](https://github.com/user-attachments/assets/5759fde6-6256-4e9c-be23-3eaa147b9793)
 
-Descripción del proyecto:
+*Descripción del proyecto:
 
 Este es un sencillo juego del Amigo Secreto desarrollado en lenguaje JavaScript. Permite a los usuarios ingresar nombres y sortearlos aleatoriamente para asignar su amigo secreto. Este proyecto facilita la organización de un juego de Amigo Secreto sin necesidad de hacerlo manualmente. Los participantes ingresan sus nombres en la aplicación y, con un solo clic, se realiza el sorteo aleatorio, asignando un amigo secreto a cada persona de manera justa.
 
