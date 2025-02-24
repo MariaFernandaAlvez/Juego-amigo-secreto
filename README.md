@@ -28,9 +28,15 @@ JavaScript
 
 3. Presiona el botón "Añadir".
 
+   ![Paso 2 y 3](https://github.com/user-attachments/assets/83565d18-1668-42e8-829a-97405da6af80)
+
 4. Posteriormente, presiona el boton "Sortear amigo".
 
+   ![Paso 4](https://github.com/user-attachments/assets/89d60e52-3388-4a51-a96e-27ecb1747b24)
+
 5. La aplicación mostrará el resultado del sorteo.
+   
+![Paso 5](https://github.com/user-attachments/assets/01c84f71-ed7a-4061-b9e1-e930183943af)
 
 [Desarrolladora del Proyecto](#persona-desarrolladora): 
 
