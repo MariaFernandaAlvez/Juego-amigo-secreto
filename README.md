@@ -2,11 +2,11 @@
 
 ![Imagen de Portada](https://github.com/user-attachments/assets/5759fde6-6256-4e9c-be23-3eaa147b9793)
 
-*Descripción del proyecto:
+[Descripción del proyecto](#descripción-del-proyecto):
 
 Este es un sencillo juego del Amigo Secreto desarrollado en lenguaje JavaScript. Permite a los usuarios ingresar nombres y sortearlos aleatoriamente para asignar su amigo secreto. Este proyecto facilita la organización de un juego de Amigo Secreto sin necesidad de hacerlo manualmente. Los participantes ingresan sus nombres en la aplicación y, con un solo clic, se realiza el sorteo aleatorio, asignando un amigo secreto a cada persona de manera justa.
 
-Funcionalidades:
+[Funcionalidades](#funcionalidades):
 
 - Permite ingresar una lista de nombres.
 
@@ -16,9 +16,11 @@ Funcionalidades:
 
 - Interfaz sencilla y fácil de usar.
 
-- Tecnologías utilizadas: JavaScript
+[Tecnologías utilizadas](#tecnologías-utilizadas):
 
-¿Cómo usarlo?:
+JavaScript
+
+[¿Cómo usarlo?](#¿-Cómo-usarlo-?):
 
 1. Accede al siguiente link: https://mariafernandaalvez.github.io/Juego-amigo-secreto/ 
 
@@ -30,4 +32,6 @@ Funcionalidades:
 
 5. La aplicación mostrará el resultado del sorteo.
 
-Autora: María fernanda Álvez - https://github.com/MariaFernandaAlvez 
+[Desarrolladora del Proyecto](#persona-desarrolladora): 
+
+María fernanda Álvez - https://github.com/MariaFernandaAlvez
